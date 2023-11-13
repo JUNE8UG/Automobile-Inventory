@@ -1,0 +1,17 @@
+
+----------------
+   INVENTORY
+----------------
+Vehicle #1
+make : Kia
+model : Forte
+color : Black
+year : 2020
+mileage : 56000
+
+Vehicle #2
+make : Toyota
+model : Corolla
+color : Maroon
+year : 1998
+mileage : 210000
