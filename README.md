@@ -48,9 +48,6 @@ Specify the license under which your project is released.
 ## Contributing
 Provide guidelines on how users can contribute to your project.
 
-## Contact
-Optionally, provide contact information or links to relevant channels for discussions.
-
 
 Make sure to replace `Automobile.java` with the actual name of your Java file. This program was developed using Java 21.01
 
