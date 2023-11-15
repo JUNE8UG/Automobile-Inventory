@@ -40,14 +40,25 @@ The inventory information is stored in the 'vehicle.txt' file.
 ## Note
 This program is intended for educational purposes and serves as a basic example of a command-line inventory management system. It does not include advanced features or user interfaces but can be a starting point for further enhancements.
 
-Feel free to explore, modify, and adapt this program to suit your needs. Contributions and feedback are welcome!
+Make sure to replace `Automobile.java` with the actual name of your Java file. This program was developed using Java 21.01
 
-## License
-Specify the license under which your project is released.
+## Usage
+
+Feel free to use the code in this repository for personal learning, educational purposes, or as a reference for your Python projects. If you find any issues or have suggestions for improvement, please refer to the [Contributing](#contributing) section.
 
 ## Contributing
-Provide guidelines on how users can contribute to your project.
 
+If you would like to contribute to this repository, please follow these guidelines:
 
-Make sure to replace `Automobile.java` with the actual name of your Java file. This program was developed using Java 21.01
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
+Your contributions are highly appreciated!
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+
+Happy coding!
 
