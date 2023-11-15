@@ -1,0 +1,9 @@
+
+----------------
+   INVENTORY
+----------------
+Make: Kia
+Model: Forte
+Color: Black
+Year: 2020
+Mileage: 57,000
